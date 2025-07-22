@@ -162,9 +162,6 @@ class EpicSanDev:
 
 <div align="center">
 
-### 🎵 En ce moment, je code sur...
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/31skoj7znpbzmujhnnbfw3dc7asu?si=56752da917f8480c)
-
 ### ⚡ Fun Facts
 - 🎯 Je résous des problèmes complexes avec des solutions élégantes
 - 🌙 Codeur nocturne invétéré
