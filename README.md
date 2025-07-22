@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/javaux_bastien" target="blank"><img src="https://img.shields.io/twitter/follow/javaux_bastien?logo=twitter&style=for-the-badge" alt="javaux_bastien" /></a> </p>
 
-- 📫 How to reach me **bastienjavaux@icloud.com**
+- 📫 How to reach me **bastienjavaux@san-o1.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
